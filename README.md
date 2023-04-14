@@ -4,10 +4,13 @@ the model usage
 in this work, you can got a igrna-abe model usage function
 <p>
 <p>
-firstly, you need to pip install -r requestments.txt Establish a virtual environment
+firstly, you need to join your a virtual environment such like (base)
 <p>
 <p>
-secondly, activate virtual environment and switch to the project path then Using the command line
+secondly,  Using the command line to switch to your project package and pip install -r requestments.txt
+<p>
+<p>
+for example :(base) c://project// ****//.  pip install -r requestments.txt
 <p>
 <p>
 (base) c://project// ****//.  python encoding.py  AAAAATTTTTCCCCCGGGGG
