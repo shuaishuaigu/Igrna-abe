@@ -3,17 +3,18 @@ the model usage
 
 in this work, you can got a igrna-abe model usage function
 <p>
+  Suggestion: Based on the new virtual environment under the Conda package management tool, install relevant packages
 <p>
-firstly, you need to join your a virtual environment such like (base)
+firstly, you need to create a new virtual environment such like (test)
 <p>
 <p>
 secondly,  Using the command line to switch to your project package and pip install -r requestments.txt
 <p>
 <p>
-for example :(base) c://project// ****//.  pip install -r requestments.txt
+for example :(test) c://project// ****//.  pip install -r requestments.txt
 <p>
 <p>
-(base) c://project// ****//.  python encoding.py  AAAAATTTTTCCCCCGGGGG
+(test) c://project// ****//.  python encoding.py  AAAAATTTTTCCCCCGGGGG
 <p>
 'AAAAATTTTTCCCCCGGGGG' is your n20 sequence
 <p>
