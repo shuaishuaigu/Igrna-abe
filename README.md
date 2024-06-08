@@ -10,7 +10,7 @@ firstly, you need to pip install -r requestments.txt Establish a virtual environ
 secondly, activate virtual environment and switch to the project path then Using the command line
 <p>
 <p>
-(base) c://project// ****//.  python encoding.py  AAAAATTTTTCCCCCGGGGG
+(base) c://project// ****//.    python encode.py   AAAAATTTTTCCCCCGGGGG
 <p>
 'AAAAATTTTTCCCCCGGGGG' is your n20 sequence
 <p>
